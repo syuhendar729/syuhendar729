@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 
 
 ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syuhendar729&layout=compact&theme=gruvbox)
+
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=syuhendar729)](https://github.com/syuhendar729) -->
